@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ProphetRu
-- 👀 I’m interested in C++ Development
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20C%2B%2B%20Development)](https://git.io/typing-svg)
 
-<!---
-ProphetRu/ProphetRu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 **Me**: Prophet 
+
+## `👨‍💻` DEVELOPMENT
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,cs,cmake,git,github,githubactions,python,bash,powershell,visualstudio,vscode,idea,linux,mysql,sqlite,selenium,linkedin,stackoverflow&theme=light&perline=10)](https://skillicons.dev)
